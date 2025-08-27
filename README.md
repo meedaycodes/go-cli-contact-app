@@ -23,5 +23,5 @@ The app allows you to **add, list, search, edit, and delete contacts**, with **p
 git clone https://github.com/meedaycodes/cli-contact-manager.git
 cd cli-contact-manager
 
-### 2. Build the project
+**### 2. Build the project**
 go build -o contact-app main.go
